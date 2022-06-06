@@ -1,8 +1,6 @@
-package complementarios.nivel1;
-
 import java.util.Scanner;
 
-public class n1ejercicio5 {
+public class Ejercicio5N1 {
         /* Se desea una aplicación que solicite 2 números enteros y realice 
     la operación de multiplicación por sumas sucesivas (sin uso de librerías). */
     public static void main(String[] args) {

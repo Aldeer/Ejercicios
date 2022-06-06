@@ -1,8 +1,6 @@
-package complementarios.nivel1;
-
 import java.util.Scanner;
 
-public class n1ejercicio8 {
+public class Ejercicio8N1 {
         /* Crear una aplicación que solicite de entrada los datos de una persona en este orden:
     Nombre y Apellido
     Edad

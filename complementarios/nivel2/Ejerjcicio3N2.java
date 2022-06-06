@@ -1,9 +1,7 @@
-package complementarios.nivel2;
-
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class n2ejercicio3 {
+public class Ejerjcicio3N2 {
     public static void main(String[] args) {
         //instanciado del objeto arraylist
         ArrayList <Integer> barajaFrancesa = new ArrayList<Integer>();

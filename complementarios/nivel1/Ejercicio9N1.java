@@ -1,8 +1,6 @@
-package complementarios.nivel1;
-
 import java.util.Scanner;
 
-public class n1ejercicio9 {
+public class Ejercicio9N1 {
             /* Dado un String de entrada (frase, texto, etc) calcular la 
     cantidad de veces que aparece una letra dada. */
     

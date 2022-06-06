@@ -1,9 +1,7 @@
-package complementarios.nivel2;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class n2ejercicio2 {
+public class Ejercicio2N2 {
         /* 
     Crear un ArrayList, agregar 5 números enteros. Luego, agregar un número entero 
     al principio de la lista y otro al final. Por último, iterar e imprimir los 

@@ -1,8 +1,6 @@
-package complementarios.nivel1;
-
 import java.util.Scanner;
 
-public class n1ejercicio4 {
+public class Ejercicio4N1 {
     public static void main(String[] args) {
         //instanciado de la clase scanner
         Scanner input=new Scanner(System.in);

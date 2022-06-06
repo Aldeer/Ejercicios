@@ -1,8 +1,6 @@
-package complementarios.nivel1;
-
 import java.util.Scanner;
 
-public class n1ejercicio7 {
+public class Ejercicio7N1 {
     /* Realizar un programa que dado un String de entrada en minúsculas lo convierta por 
     completo a mayúsculas. Sin uso de métodos o librerías que realicen toUppercase(). */
     public static void main(String[] args) {

@@ -1,10 +1,8 @@
-package complementarios.nivel2;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class n2ejercicio7 {
+public class Ejercicio7N2 {
     /* 
     Crear una función que dado 2 argumentos (int, siendo el primero menor al segundo), 
     nos devuelva un array de Strings. Con la secuencia de números enteros de principio a final.

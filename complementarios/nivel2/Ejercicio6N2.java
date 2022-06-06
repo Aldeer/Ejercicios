@@ -1,11 +1,9 @@
-package complementarios.nivel2;
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class n2ejercicio6 {
+public class Ejercicio6N2 {
         /* 
     Se dispone de una colección de Empleados, de cada empleado se conoce:
     Nombre y Apellido

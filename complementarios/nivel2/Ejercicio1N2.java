@@ -1,10 +1,8 @@
-package complementarios.nivel2;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class n2ejercicio1 {
+public class Ejercicio1N2 {
         /* Crear un ArrayList y cargarlo con tus ciudades favoritas de 
     Argentina, luego imprimir por pantalla el ranking */
     public static void main(String[] args) {

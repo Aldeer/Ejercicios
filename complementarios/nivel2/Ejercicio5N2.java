@@ -1,11 +1,9 @@
-package complementarios.nivel2;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Scanner;
 
-public class n2ejercicio5 {
+public class Ejercicio5N2 {
         /* Dados 2 ArrayList que contienen horas-trabajadas (array1) y valor-por-hora(array2) 
     del resumen de carga de horas semanal de un empleado. Se debe generar otra lista que 
     contenga los totales y luego imprimir el total final a cobrar */

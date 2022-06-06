@@ -1,10 +1,8 @@
-package complementarios.nivel2;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class n2ejercicio4 {
+public class Ejercicio4N2 {
     /* 
     Cargar un arrayList con 12 nombres de estudiantes (String), luego separarlos en 3
     cursos (3 arrayList) e imprimir dichos cursos.
