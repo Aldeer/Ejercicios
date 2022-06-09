@@ -20,8 +20,6 @@ public class Ejercicio1N3 {
         palabras.stream()
             .filter(Objects::nonNull)
             .filter(p -> !p.equals(""))
-            .forEach(p -> {
-                System.out.printf("%s ",p);
-            });
+            .forEach(p -> System.out.print(p+" "));
     }
 }
